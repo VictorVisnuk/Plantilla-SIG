@@ -1,0 +1,7 @@
+*.aux
+*.tif
+*.qgd
+*.zip
+*.log
+__pycache__/
+.DS_Store
