@@ -1,4 +1,4 @@
-# Plantilla para Proyectos GIS
+# Plantilla para Proyectos SIG
 
 Este repositorio es una plantilla diseñada para estructurar y organizar proyectos de Sistemas de Información Geográfica (SIG). Úsalo como base para tus proyectos, manteniendo los datos, scripts y documentación bien organizados.
 
@@ -26,7 +26,7 @@ Proyecto_GIS/
 │   ├── Manuales/           # Guías y metodologías
 │   └── Reportes/           # Informes analíticos o técnicos
 ├── Configuración/          # Configuración de estilos y CRS
-├── Cuadernos/              # Notebooks (Jupyter o similares)
+├── Notebooks/              # Notebooks (Jupyter o similares)
 ├── Pruebas/                # Scripts o datos para validación
 ├── .gitignore              # Archivos y carpetas ignorados en Git
 ├── README.md               # Descripción del repositorio
