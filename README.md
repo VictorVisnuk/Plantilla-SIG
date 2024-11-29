@@ -8,24 +8,28 @@ Este repositorio es una plantilla diseñada para estructurar y organizar proyect
 
 El repositorio contiene las siguientes carpetas, organizadas para mantener el flujo de trabajo:
 
-1. `Datos/` - Almacenamiento de datos geoespaciales.
-   - `Originales/` - Datos en bruto (sin modificaciones).
-   - `Procesados/` - Datos procesados o transformados.
-   - `Resultados/` - Resultados finales, como capas y mapas.
-2. `Proyectos/` - Archivos de proyecto GIS.
-   - `QGIS/` - Archivos de proyecto de QGIS (`.qgz`, `.qgs`).
-3. `Scripts/` - Scripts para análisis y procesamiento.
-   - `Limpieza/` - Scripts para limpieza de datos.
-   - `Análisis/` - Scripts de análisis espacial.
-   - `Visualización/` - Scripts para generar mapas o gráficos.
-4. `Documentación/` - Documentación del proyecto.
-   - `Metadatos/` - Información sobre los datos utilizados.
-   - `Manuales/` - Guías y metodologías.
-   - `Reportes/` - Informes analíticos o técnicos.
-5. `Configuración/` - Configuración de estilos y CRS.
-6. `Cuadernos/` - Notebooks (Jupyter o similares).
-7. `Pruebas/` - Scripts o datos para validación.
-
+Proyecto_GIS/
+├── Datos/                  # Almacenamiento de datos geoespaciales
+│   ├── Originales/         # Datos en bruto (sin modificaciones)
+│   ├── Procesados/         # Datos procesados o transformados
+│   └── Resultados/         # Resultados finales, como capas y mapas
+├── Proyectos/              # Archivos de proyecto GIS
+│   ├── QGIS/               # Archivos de proyecto de QGIS (.qgz, .qgs)
+│   └── Otros/              # Archivos de otros softwares GIS
+├── Scripts/                # Scripts para análisis y procesamiento
+│   ├── Limpieza/           # Scripts para limpieza de datos
+│   ├── Análisis/           # Scripts de análisis espacial
+│   └── Visualización/      # Scripts para generar mapas o gráficos
+├── Documentación/          # Documentación del proyecto
+│   ├── Metadatos/          # Información sobre los datos utilizados
+│   ├── Manuales/           # Guías y metodologías
+│   └── Reportes/           # Informes analíticos o técnicos
+├── Configuración/          # Configuración de estilos y CRS
+├── Cuadernos/              # Notebooks (Jupyter o similares)
+├── Pruebas/                # Scripts o datos para validación
+├── .gitignore              # Archivos y carpetas ignorados en Git
+├── README.md               # Descripción del repositorio
+└── LICENSE.md              # Licencia del repositorio (opcional)
 ---
 
 Esto indica el orden y propósito de las carpetas, aunque no se alinee exactamente con la visualización alfabética.
