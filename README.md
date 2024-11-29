@@ -8,6 +8,7 @@ Este repositorio es una plantilla diseñada para estructurar y organizar proyect
 
 El repositorio contiene las siguientes carpetas, organizadas para mantener el flujo de trabajo:
 
+```plaintext
 Proyecto_GIS/
 ├── Datos/                  # Almacenamiento de datos geoespaciales
 │   ├── Originales/         # Datos en bruto (sin modificaciones)
@@ -30,6 +31,7 @@ Proyecto_GIS/
 ├── .gitignore              # Archivos y carpetas ignorados en Git
 ├── README.md               # Descripción del repositorio
 └── LICENSE.md              # Licencia del repositorio (opcional)
+```
 ---
 
 Esto indica el orden y propósito de las carpetas, aunque no se alinee exactamente con la visualización alfabética.
